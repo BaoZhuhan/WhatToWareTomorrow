@@ -1,0 +1,2 @@
+# WhatToWareTomorrow
+WhatToWareTomorrow 是一个基于个人衣物数据库与天气及活动安排的多维度智能穿搭推荐项目，旨在通过综合评估气候、个人风格和服饰搭配，为用户提供次日的穿搭建议。
